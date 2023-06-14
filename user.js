@@ -1,3 +1,4 @@
+user_pref("app.update.auto", false);
 user_pref("apz.gtk.touchpad_pinch.enabled", false);
 user_pref("apz.touch_move_tolerance", "2.0");
 user_pref("apz.touch_start_tolerance", "1.0");
@@ -10,3 +11,4 @@ user_pref("browser.tabs.remote.desktopbehavior", false);
 user_pref("browser.tabs.remote.warmup.enabled", false);
 user_pref("browser.tabs.remote.warmup.maxTabs", 0);
 user_pref("devtools.policy.disabled", true);
+user_pref("extensions.pocket.enabled", false);
