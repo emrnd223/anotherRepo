@@ -18,3 +18,4 @@ user_pref("browser.tabs.remote.warmup.enabled", false);
 user_pref("browser.tabs.remote.warmup.maxTabs", 0);
 user_pref("devtools.policy.disabled", true);
 user_pref("extensions.pocket.enabled", false);
+user_pref("ui.click_hold_context_menus.delay", 500000);
